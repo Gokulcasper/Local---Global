@@ -1,5 +1,9 @@
 // Local & Global Scope Function
 
+//Block scope
+//Local scope
+//Global scope
+
 //Block Scope:
 // {
 //   let val = 2;
